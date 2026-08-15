@@ -27,17 +27,7 @@ The study aimed to evaluate the effects of different mixed-wood biochar applicat
 
 This project was conducted as a **collaborative experimental research study** by **Qurrat-ul-Ain** and **Moazzam Riaz**.
 
-The research collaboration involved experimental work, data collection and organization, data analysis, interpretation of results, and documentation of the research workflow.
-
-### Contributors
-
-**Qurrat-ul-Ain**  
-*Soil Science | Experimental Research | R & Environmental Data Analysis*
-
-**Moazzam Riaz**  
-*Soil Science | Experimental Research*
-
-Both contributors participated in the development and documentation of the experimental work. Specific analytical and experimental responsibilities are documented according to their respective contributions to the project.
+The research collaboration involved experimental work, data collection and organization, data analysis, interpretation of results, and documentation of the research workflow. Both contributors participated in the development and documentation of the experimental work. Specific analytical and experimental responsibilities are documented according to their respective contributions to the project.
 
 ---
 
